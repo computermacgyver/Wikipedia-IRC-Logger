@@ -11,7 +11,8 @@ Adjust which channels (projects) you want to record in [SimpleLogger.java](https
 
 [RecentChange.java](https://github.com/computermacgyver/Wikipedia-IRC-Logger/blob/master/src/us/hale/scott/wikipedia/irc/model/RecentChange.java) provides example code to parse lines from the files. 
 
-See the related mapreduce code for hadoop mappers and reducers. Wikipedia has further information about [the recent changes IRC stream](http://meta.wikimedia.org/wiki/IRC/Channels#Raw_feeds).
+See the related [mapreduce code](https://github.com/computermacgyver/Wikipedia-IRC-MapReduce) for hadoop mappers and reducers. Wikipedia has further information about [the recent changes IRC stream](http://meta.wikimedia.org/wiki/IRC/Channels#Raw_feeds).
 
 If you use this code in support of an academic publication, please cite:
-  Hale, S. A. (2014). Multilinguals and Wikipedia Editing. http://arxiv.org/abs/1312.0976
+
+    Hale, S. A. (2014). Multilinguals and Wikipedia Editing. http://arxiv.org/abs/1312.0976
