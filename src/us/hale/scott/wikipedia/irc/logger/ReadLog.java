@@ -1,3 +1,4 @@
+package us.hale.scott.wikipedia.irc.logger;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;

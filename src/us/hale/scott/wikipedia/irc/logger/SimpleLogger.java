@@ -1,3 +1,4 @@
+package us.hale.scott.wikipedia.irc.logger;
 import java.io.*;
 import java.net.*;
 import java.nio.charset.Charset;

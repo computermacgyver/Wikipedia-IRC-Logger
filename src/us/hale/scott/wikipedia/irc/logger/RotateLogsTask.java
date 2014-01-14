@@ -1,3 +1,4 @@
+package us.hale.scott.wikipedia.irc.logger;
 import java.io.FileNotFoundException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
