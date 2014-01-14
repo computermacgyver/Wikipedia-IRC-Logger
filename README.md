@@ -16,3 +16,5 @@ See the related [mapreduce code](https://github.com/computermacgyver/Wikipedia-I
 If you use this code in support of an academic publication, please cite:
 
     Hale, S. A. (2014). Multilinguals and Wikipedia Editing. http://arxiv.org/abs/1312.0976
+
+This code is released under the [GPLv2 license](http://www.gnu.org/licenses/gpl-2.0.html). Please [contact me](http://www.scotthale.net/blog/?page_id=9) if you wish to use the code in ways that the GPLv2 license does not permit.
